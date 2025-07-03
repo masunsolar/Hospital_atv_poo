@@ -1,0 +1,8 @@
+mario;14;Masculino;1234;1234
+rose; 12; Feminino; 12345; 12345
+caua; 12; Masculino; 1234; 12345
+seiche; 12; Masculino; 1234; 1234
+123; 21312; Masculino; (12) 31231-2312; 12312312
+Carlos; 22; Masculino; (12) 34567-8009; Zduqb
+Povo | 120 | Masculino | (12) 31231-2312 | Mundo
+Todos | 123 | Masculino | (12) 31231-2311 | 12123
