@@ -55,17 +55,6 @@ A interface é feita com **Java Swing** e simula o funcionamento de um sistema b
 
 ---
 
-### 📂 Organização das Telas
-
-- `TelaCadastroMedico.java`  
-- `TelaCadastroPaciente.java`  
-- `TelaAgendamentoConsulta.java`  
-- `TelaVisualizarAgendaMedico.java`  
-- `TelaAlterarStatusConsulta.java`  
-- `TelaAlterarHorarioMedico.java`  
-
----
-
 ### ✍️ Autor
 
 - Nome: Natan e Giovanni 
